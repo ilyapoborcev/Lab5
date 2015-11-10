@@ -1,1 +1,2 @@
-sudo rmmod repeat_hello
+sudo rm -f /dev/hello
+sudo rmmod hello
